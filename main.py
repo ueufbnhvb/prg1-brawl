@@ -5,3 +5,4 @@ spelare_hp = 100
 fiende_hp = 80
 
 # Ditt första kort börjar här.
+Karaktär = int(input("välj en karaktär"))

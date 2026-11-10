@@ -1,0 +1,6 @@
+1. Mitt spel: Spelet ska vara ett figthingspel och man kan välja mellan lite olika karaktärer. 
+Alla har tre attacker var. Vissa karaktärer har mer offensiva attacker som görmer skada och andra är mer deffensiva men det gör också att de har mer hp.
+Motståndaren ska slumpas mellan olika karaktärer. UNder motståndarens tur får du se vilken attack han använde och hur mycket skada du tog.
+Programmet börjar med att du får frågan om du vill spela och sedan kommer den fråga vad du vill välja för karaktär.
+När det är din tur så kommer du få välja mellan tre attacker. Om motståndarens hp är större än 0 så kommer matchen fortsätta. 
+ 
